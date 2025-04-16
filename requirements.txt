@@ -1,0 +1,9 @@
+### 📄 `requirements.txt`
+Include the versions you used, or use safe versions like:
+```txt
+pandas==2.2.1
+numpy==1.24.4
+matplotlib==3.8.0
+seaborn==0.13.2
+scikit-learn==1.3.2
+jupyter==1.0.0
