@@ -1,4 +1,4 @@
-# ⚡ Energy Forecast Notebook
+# ⚡ Energy Consumption Prediction
 
 This project explores energy consumption prediction using machine learning techniques such as Random Forest, with a focus on data preprocessing, feature engineering, and model evaluation.
 
